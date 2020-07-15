@@ -12,3 +12,10 @@
 - Used MaterialUI for bootstrapping common components as I have worked with it recently
 - Used React Router for handling multiple pages in a SPA
 - Used fetch API and react hooks for lifecycling handling in stateless functional components
+
+# Pages implemented
+### Admin view
+Add/remove/~~update~~/view employees
+Add/~~update~~/view performance reviews
+~~Assign employees to participate in another employee's performance review~~
+### ~~Employee view~~

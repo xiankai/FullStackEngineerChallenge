@@ -9,4 +9,5 @@
 
 # Web app
 - `cd frontend`
+- `yarn`
 - `yarn start`
