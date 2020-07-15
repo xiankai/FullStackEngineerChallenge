@@ -1,0 +1,12 @@
+[package]
+name = "paypay"
+version = "0.1.0"
+authors = ["KJ <xiankai@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rusqlite = "0.21.0"
+serde = { version = "1.0.114", features = ["derive"] }
+serde_json = "1.0.56"
